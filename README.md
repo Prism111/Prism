@@ -6,7 +6,7 @@ Talk to an AI. Build your story. Generate the scenes. Create the film.
 
 Prism is a free, open-source desktop AI filmmaking studio that turns your ideas into long-form, character-consistent videos and movies — from a 30-second commercial to a full multi-act film.
 
-[**⬇ Download Prism**](https://github.com/Prism111/Prism/releases/tag/v1.0.0)
+[**⬇ Download Prism**](https://github.com/Prism111/Prism/releases/download/v1.0.0/Prism.Setup.1.0.0.exe)
 
 ---
 
